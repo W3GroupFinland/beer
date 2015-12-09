@@ -1,4 +1,4 @@
-# W3 Olutta
+# W3 Beer
 
 ## W3 Port3r 2015
 
@@ -7,18 +7,18 @@
 * EBC 62
 * 51 kcal/dl
 
-### Ainekset
+### Ingredients
 
 * 10 kg Pilsner Malt
 *  1 kg Brown Malt
 *  1 kg Crystal 75 Malt
 *  1 kg Chocolate Malt
-* 90 g  Fuggle-humalaa (60 minuutin keitto)
-* 40 g  Fuggle-humalaa (15 minuutin keitto)
-* 1 pkt Wyeast 1968 hiivaa
+* 90 g  Fuggle-hops (60 min)
+* 40 g  Fuggle-hops (15 min)
+* 1 pkt Wyeast 1968 yeast
 
 
-### Työvaiheet
+### Työvaiheet ( will be translated to english shortly - or just use google translate for a laugh... )
 
 Mäskätään maltaat 53 litrassa vettä 66 asteessa 60 minuuttia, jonka jälkeen nostetaan lämpötila 72 asteeseen 20 minuuutin ajaksi.
 Huuhdellaan x litralla lämmintä vettä.
