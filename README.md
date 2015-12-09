@@ -18,12 +18,11 @@
 * 1 pkt Wyeast 1968 yeast
 
 
-### Työvaiheet ( will be translated to english shortly - or just use google translate for a laugh... )
+### Brewing
 
-Mäskätään maltaat 53 litrassa vettä 66 asteessa 60 minuuttia, jonka jälkeen nostetaan lämpötila 72 asteeseen 20 minuuutin ajaksi.
-Huuhdellaan x litralla lämmintä vettä.
+Mash malts in 53 liters of water at 66 C for 60 minutes, then raise temperature to 72 C for 20 minutes. Sparge with 15 liters of water.
 
-Keitetään 60 minuuttia, lisätään humalat 60 ja 15 minuutin kohdalla. Jäähytetään mahdollisimman nopeasti, siirretään käymisastiaan ja lisätään hiiva. 
+Boil for 60 minutes, adding hops at 60 and 15 minutes. Chill as quickly as possible, transfer to fermentator and add yeast.
 
-Annetaan käydä pari viikkoa, jonka jälkeen pullotetaan. Parhaimmillaan parin kuukauden kuluttua pullotuksesta.
+Let ferment at 20 C for a couple of weeks, then bottle. Drinkable after one week, but improves with conditioning for several months.
 
