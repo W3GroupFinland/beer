@@ -3,8 +3,8 @@
 ## W3 Chill Ale 2016
 
 * Alc. 6,1 % / 5,3 %
-* IBU 
-* EBC 
+* IBU 85
+* EBC 16
 
 ### Ingredients
 
